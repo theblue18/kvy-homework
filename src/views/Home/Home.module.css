@@ -1,0 +1,31 @@
+.productCol {
+    padding: 10px 0px;
+    display: flex;
+    height: auto;
+}
+
+.paginationRow {
+    margin-top: 50px;
+}
+
+.sortFilterRow {
+    text-align: end;
+}
+
+.filterApplyBtn {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease-in-out;
+    box-shadow: 0px 0px 10px 2px rgba(255, 165, 0, 0.8);
+    border-color: #ffa500;
+
+}
+
+.notFilterApplyBtn {
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+
+    cursor: pointer;
+    transition: box-shadow 0.3s ease-in-out;
+}

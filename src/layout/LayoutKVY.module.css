@@ -1,0 +1,29 @@
+.mainLayoutContainer {
+    min-height: 100vh
+}
+
+.headerKVY {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: 'flex';
+}
+.textLogo {
+    color:#ededed !important; 
+    text-align: "center"; 
+    padding: 0 ;
+    cursor: pointer;
+   
+    
+}
+.shoppingCartIcon{
+    font-size: "24px";
+    color: #FFC03F;
+}
+.cartLabel {
+    color: #FFC03F;
+}
+.mainContent{
+    padding: 24px;
+    min-height: calc(100vh - 128px)
+}

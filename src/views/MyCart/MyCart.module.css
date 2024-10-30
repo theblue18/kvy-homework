@@ -1,0 +1,41 @@
+.shoppingCartContainer {
+    padding: 0px !important;
+    background-color: white;
+    border-radius: 16px;
+
+}
+
+.contentCol {
+    padding: 36px !important;
+}
+
+.summaryCol {
+    background-color: #001529;
+
+}
+.summarizeRow{
+    padding: 10px 0px;
+}
+.summarizeText{
+    color: white !important;
+}
+.summarizeSubtitleText{
+    color: white !important;
+    font-size: 16px;
+}
+.totalAmountBill{
+    color:  #f2a200  !important;
+    font-size: 16px;
+    font-weight: 600;
+}
+.checkOutBtn {
+    background-color: #FFC03F;
+    color: #222222;
+    border-color: transparent !important;
+}
+
+.checkOutBtn:hover {
+    background-color: #f2a200 !important;
+    color: #222222 !important;
+    border-color: transparent !important;
+}

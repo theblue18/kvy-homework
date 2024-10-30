@@ -1,0 +1,51 @@
+.filterContainer {
+
+    padding: 10px;
+    min-height: 100vh;
+
+}
+
+.titleFilter {
+    font-size: 16px;
+    font-weight: 600;
+
+
+}
+.categoryFilter{
+    width: 100%;
+}
+
+.typeOfFilter {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px 0px;
+
+}
+
+.sliderContainer {
+    width: 100%;
+}
+
+.customSlider .ant-slider-track {
+    background-color: #f2a200 !important;
+}
+
+.customSlider .ant-slider-handle {
+    border-color: #f2a200 !important;
+}
+
+.customSlider .ant-slider-rail {
+    background-color: #e0e0e0;
+}
+
+.resetBtn {
+    background-color: #FFC03F;
+    color: #222222;
+    border-color: transparent !important;
+}
+
+.resetBtn:hover {
+    background-color: #f2a200 !important;
+    color: #222222 !important;
+    border-color: transparent !important;
+}

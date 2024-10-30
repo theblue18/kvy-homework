@@ -1,0 +1,30 @@
+.categoryProduct{
+    font-size: 12px;
+    font-weight: 600;
+    color: darkgray;
+    text-transform: capitalize;
+
+}
+.imageProduct{
+    object-fit: "cover";
+    padding: 10px;
+}
+.titleProduct{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: start;
+   
+}
+.priceProduct{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: start;
+}
+
+.totalAmount{
+    font-size: 14px;
+    font-weight: bold;
+    text-align: start;
+    color:  #f2a200;
+    text-align: right;
+}

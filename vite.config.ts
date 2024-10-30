@@ -11,5 +11,9 @@ export default defineConfig({
     setupFiles: "src/setupTests.ts",
     mockReset: true,
   },
+  build: {
+    outDir: 'dist', // Vercel serves from this directory by default
+  },
+  
   
 })
